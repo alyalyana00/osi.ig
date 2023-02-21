@@ -62,7 +62,7 @@ def exinfo():
 	xprint(tags, "tags")
 	xprint(ment, "mentions")
 	
-def user_info(usrname):
+def user_info(usrname):haazim03
 
 	global total_uploads, is_private
 	
